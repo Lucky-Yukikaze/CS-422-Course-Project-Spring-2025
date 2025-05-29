@@ -2,8 +2,6 @@
 
 **Author** Wencan Wu CWID:A20567176
 
-#### The trained model has a large volume and cannot be uploaded to GitHub. Please check the compressed file submitted in attempt 2, thank you.
-
 #### Abstract
 
 This project visualizes and analyzes the browsing data of Tiktok in a period of time from the perspective of users, authors and works. Based on data analysis, cluster analysis is conducted on users and authors to train a binary classification model for predicting likes in browsing behavior.
