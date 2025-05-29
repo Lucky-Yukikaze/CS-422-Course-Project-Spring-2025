@@ -2,7 +2,7 @@
 
 **Author** Wencan Wu CWID:A20567176
 
-#### The trained model has a large volume and cannot be uploaded to GitHub. Please check the compressed file submitted in attempt 2, thank you.
+#### The trained model has a large volume and cannot be uploaded to GitHub. Please check the compressed file submitted in attempt 2, thank you.Some data visualization images cannot be displayed properly when viewing ipynb files online on GitHub, but they can be displayed normally after downloading them.
 
 #### Abstract
 
