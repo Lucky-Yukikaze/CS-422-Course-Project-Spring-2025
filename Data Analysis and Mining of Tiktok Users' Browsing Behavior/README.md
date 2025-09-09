@@ -1,6 +1,6 @@
 ### Data Analysis and Mining of Tiktok Users' Browsing Behavior
 
-**Author** Wencan Wu CWID:A20567176
+**Author** Wencan Wu
 
 #### Abstract
 
